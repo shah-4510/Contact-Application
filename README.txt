@@ -1,6 +1,6 @@
 The program is build and compiled as Maven Project of SpringBoot in Eclipse.
 
-The user needs to download the zip file and extract into the workspace of Eclipse in their device.
+The user needs to download the files and extract into the workspace of Eclipse in their device.
 
 In Eclipse, they can import the project under:
 Import -> Existing Maven Project (check that pom.xml is selected while importing)
